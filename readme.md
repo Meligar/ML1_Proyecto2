@@ -10,7 +10,7 @@ Este repositorio contiene el proyecto de la Guía 2 para la materia Machine Lear
 
 El repositorio está organizado de la siguiente manera:
 
-2. **Notebook**: Aquí se encuentran el Jupyter Notebook utilizado durante el desarrollo del proyecto. Este notebook comprende el ejercicio de Car Evaluation (Actividad 1) donde se hacen diferentes modelos de clasificación.
+1. **Notebook**: Aquí se encuentran el Jupyter Notebook utilizado durante el desarrollo del proyecto. Este notebook comprende el ejercicio de Car Evaluation (Actividad 1) donde se hacen diferentes modelos de clasificación.
 
 ### Instrucciones de Uso
 
